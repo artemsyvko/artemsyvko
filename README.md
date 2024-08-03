@@ -1,4 +1,3 @@
-<div align="right">
-  
+# Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=artemsyvko)
-</div>
